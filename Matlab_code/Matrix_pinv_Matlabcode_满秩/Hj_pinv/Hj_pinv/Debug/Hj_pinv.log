@@ -1,0 +1,22 @@
+﻿生成启动时间为 2021/10/23 8:38:45。
+     1>项目“E:\GSK\Work_file\21POINTS\时间效率优化\Hj_pinv_Hj满秩了\Hj_pinv\Hj_pinv\Hj_pinv.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\visual studio2013\insutal_file\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Hj_pinv.cpp main.cpp rtGetInf.cpp rtGetNaN.cpp rt_nonfinite.cpp
+         rt_nonfinite.cpp
+         rtGetNaN.cpp
+         rtGetInf.cpp
+         main.cpp
+         Hj_pinv.cpp
+         正在生成代码...
+       Link:
+         D:\visual studio2013\insutal_file\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\GSK\Work_file\21POINTS\时间效率优化\Hj_pinv_Hj满秩了\Hj_pinv\Debug\Hj_pinv.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\GSK\Work_file\21POINTS\时间效率优化\Hj_pinv_Hj满秩了\Hj_pinv\Debug\Hj_pinv.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\GSK\Work_file\21POINTS\时间效率优化\Hj_pinv_Hj满秩了\Hj_pinv\Debug\Hj_pinv.lib" /MACHINE:X86 Debug\Hj_pinv.obj
+         Debug\main.obj
+         Debug\rtGetInf.obj
+         Debug\rtGetNaN.obj
+         Debug\rt_nonfinite.obj
+         Hj_pinv.vcxproj -> E:\GSK\Work_file\21POINTS\时间效率优化\Hj_pinv_Hj满秩了\Hj_pinv\Debug\Hj_pinv.exe
+     1>已完成生成项目“E:\GSK\Work_file\21POINTS\时间效率优化\Hj_pinv_Hj满秩了\Hj_pinv\Hj_pinv\Hj_pinv.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.10
